@@ -1,0 +1,7 @@
+# Ignore node modules and build artifacts
+node_modules/
+.next/
+.DS_Store
+# Environment files
+.env
+.env.local
